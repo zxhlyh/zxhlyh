@@ -3,7 +3,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zxhlyh/zxhlyh/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zxhlyh/zxhlyh/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zxhlyh/zxhlyh/blob/output/github-contribution-grid-snake-light.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
